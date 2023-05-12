@@ -1,6 +1,6 @@
 ### Hello there! 👋🏻
 
-![](https://komarev.com/ghpvc/?username=iakashpaul&label=Traffic&style=flat-square&color=00c8ad)
+
 <!--
 **iakashpaul/iakashpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
